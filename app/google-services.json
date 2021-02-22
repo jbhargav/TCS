@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976285081755",
+    "firebase_url": "https://tcs-auth-1612962968407-default-rtdb.firebaseio.com",
+    "project_id": "tcs-auth-1612962968407",
+    "storage_bucket": "tcs-auth-1612962968407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976285081755:android:adc89c1120a8ccfcffe63e",
+        "android_client_info": {
+          "package_name": "com.example.kardia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976285081755-7alqejmekjo92nshnacb1cpholtu53c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kardia",
+            "certificate_hash": "e19e840c956c8265a0089b5dddc98d4a737377fb"
+          }
+        },
+        {
+          "client_id": "976285081755-2coo8rgn7qggs4libqp75m83skkdqlgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLSgBjlCggMTrk2ekKgbFishpSECrxIoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976285081755-2coo8rgn7qggs4libqp75m83skkdqlgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
